@@ -33,20 +33,8 @@ Django: 4.0 or later
 PostgreSQL/MySQL/SQLite (or your preferred database)
 
 ## Folder Structure
-restaurant-marketplace/
-│
-├── marketplace/       # Main Django app directory
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── models.py
-│   ├── views.py
-│   ├── ...
-│
-├── static/            # Static files (CSS/JS/Images)
-├── templates/         # HTML templates
-│
-├── manage.py          # Django Management Script
-└── requirements.txt   # Project dependencies
+
+![alt text](image.png)
 
 ## Contributing
 We welcome contributions to this project. If you wish to contribute, please follow these steps:
